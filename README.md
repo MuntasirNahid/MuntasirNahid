@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello World, I am Muntasir Nahid
+Hello World, I am Muntasir Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 A Day-Dreamer.Currently I'm learning different programming language and web developing.
 
@@ -60,5 +60,5 @@ https://MuntasirNahid.github.io
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MuntasirNahid.MuntasirNahid)
 
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev/years/{MuntasirNahid})
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev/years/MuntasirNahid)
 
