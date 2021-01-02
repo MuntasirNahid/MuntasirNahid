@@ -57,5 +57,6 @@ https://MuntasirNahid.github.io
 <li><a href="https://www.facebook.com/muntasirmamun.nahid/" rel="me">Facebook</a>
 <li>Call</li>
 </li>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MuntasirNahid.MuntasirNahid)
+ ![](https://visitor-badge.glitch.me/badge?page_id=MuntasirNahid.MuntasirNahid)
+
 
