@@ -59,6 +59,6 @@ https://MuntasirNahid.github.io
 </li>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MuntasirNahid.MuntasirNahid)
-
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev/years/MuntasirNahid)
+https://badges.pufler.dev/years/{MuntasirNahid}
+[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 
