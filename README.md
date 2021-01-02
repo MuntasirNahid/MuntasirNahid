@@ -57,3 +57,4 @@ https://MuntasirNahid.github.io
 <li><a href="https://www.facebook.com/muntasirmamun.nahid/" rel="me">Facebook</a>
 <li>Call</li>
 </li>
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
