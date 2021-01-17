@@ -59,5 +59,6 @@ https://MuntasirNahid.github.io
 </li>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MuntasirNahid.MuntasirNahid)
+![GitHub last commit](https://img.shields.io/github/last-commit/MuntasirNahid/MuntasirNahid)
 
 
