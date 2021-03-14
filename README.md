@@ -29,7 +29,7 @@ https://MuntasirNahid.github.io
 <tr><th scope='row'>Studying</th><td>CSE</td></tr>
 <tr><th scope='row'>Institution</th><td>Shahjalal University Of Science And Technology</td></tr>
 <tr><th scope='row'>Institution(College)</th><td>Notre Dame College,Dhaka</td></tr>
-<tr><th scope='row'>Institution(School)</th><td>Cumilla Zilla school,Cumilla</td></tr>
+<tr><th scope='row'>Institution(School)</th><td>Cumilla Zilla School,Cumilla</td></tr>
 <tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
 <tr><th scope='row'>Occupation</th><td>Student</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, C, C++</td></tr>
