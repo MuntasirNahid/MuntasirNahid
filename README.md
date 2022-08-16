@@ -9,7 +9,7 @@
 
 Hello World, I am Muntasir Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-A Day-Dreamer.Currently, I'm learning different programming language's and web developement.
+A Day-Dreamer.Currently, I'm learning different programming language's and Data Science.
 
 https://MuntasirNahid.github.io
 
