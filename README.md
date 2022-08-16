@@ -32,7 +32,7 @@ https://MuntasirNahid.github.io
 <tr><th scope='row'>Institution(School)</th><td>Cumilla Zilla School,Cumilla</td></tr>
 <tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
 <tr><th scope='row'>Occupation</th><td>Student</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, C, C++</td></tr>
+<tr><th scope='row'>Skills</th><td>C, C++, Java, Python, Java Swing, Excel</td></tr>
 <tr><th scope='row'>Other Name</th><td>Nahid</td></tr>
 <tr><th scope='row'>Known For</th><td>Muntasir</td></tr>
 </tbody>
