@@ -11,7 +11,6 @@ Hello World, I am Muntasir Nahid <img src="https://media.giphy.com/media/hvRJCLF
 
 A Day-Dreamer.Currently, I'm learning different programming language's and Mobile Developement.
 
-https://MuntasirNahid.github.io
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuntasirNahid&show_icons=true&include_all_commits=true&theme=radical" alt="MuntasirNahid's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirNahid&layout=compact&theme=radical" />
