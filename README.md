@@ -9,7 +9,7 @@
 
 Hello World, I am Muntasir Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-A Day-Dreamer.Currently, I'm learning different programming language's and Mobile Developement.
+A Day-Dreamer.Currently, I'm learning different programming language's and Mobile App Developement.
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuntasirNahid&show_icons=true&include_all_commits=true&theme=radical" alt="MuntasirNahid's github stats" />
