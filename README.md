@@ -31,7 +31,7 @@ A Day-Dreamer.Currently, I'm learning different programming language's and Mobil
 <tr><th scope='row'>Institution(School)</th><td>Cumilla Zilla School,Cumilla</td></tr>
 <tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
 <tr><th scope='row'>Occupation</th><td>Student</td></tr>
-<tr><th scope='row'>Skills</th><td>C, C++, Java, Python, Java Swing, Excel,Flutter</td></tr>
+<tr><th scope='row'>Skills</th><td>C, C++, Java, Python, Java Swing, Excel,Express JS,Flutter</td></tr>
 <tr><th scope='row'>Other Name</th><td>Nahid</td></tr>
 <tr><th scope='row'>Known For</th><td>Muntasir</td></tr>
 </tbody>
