@@ -37,14 +37,7 @@ A Day-Dreamer.Currently, I'm learning different programming language's and Mobil
 </tbody>
 </table>
 
-## Tasks
 
-- [x] Born
-- [ ] Got a job
-- [ ] Do something for my Mother and Father
-- [ ] Married
-- [ ] Have children
-- [ ] Die
 
 
 ## 5 ways to contact me
