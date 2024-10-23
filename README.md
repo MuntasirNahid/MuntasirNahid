@@ -3,7 +3,7 @@
 
 * [About Me](#about-me)
 * [Tasks](#tasks)
-* [5 Ways to contact me](#Ways-to-contact-me)
+* [Ways to contact me](#Ways-to-contact-me)
 
 ## About Me
 
