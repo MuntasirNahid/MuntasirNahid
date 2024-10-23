@@ -1,4 +1,4 @@
-# Muntasir Mamun Nahid
+# Muntasir Mamun
 <p align='center'><img src="https://amensah.com/ezcoder/extras/Easy_Coder_Logo_LowRes.jpg" alt="MuntasirNahid" width="100" height="100"></p>
 
 * [About Me](#about-me)
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello World, I am Muntasir Mamun Nahid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello World, I am Muntasir Mamun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 A Day-Dreamer.Currently, I'm learning different programming language's and Mobile App Developement.
 
@@ -16,14 +16,14 @@ A Day-Dreamer.Currently, I'm learning different programming language's and Mobil
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuntasirNahid&layout=compact&theme=radical" />
 
 <table>
-<caption>Muntasir Nahid</caption>
+<caption>Muntasir Mamun</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
 </tr>
 </thead>
 <tbody>
-<tr><th scope='row'>Name</th><td>Muntasir Nahid</td></tr>
+<tr><th scope='row'>Name</th><td>Muntasir Mamun </td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2000-08 ">August, 2000</time></td></tr>
 <tr><th scope='row'>Studying</th><td>CSE</td></tr>
 <tr><th scope='row'>Institution</th><td>Shahjalal University Of Science And Technology</td></tr>
@@ -40,7 +40,7 @@ A Day-Dreamer.Currently, I'm learning different programming language's and Mobil
 
 
 
-## 5 ways to contact me
+## Ways to contact me
 
 <ul>
 <li><a href="muntasir19@student.sust.edu" rel="me">Mail</a>
