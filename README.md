@@ -44,7 +44,7 @@ A Day-Dreamer.Currently, I'm learning different programming language's and Mobil
 
 <ul>
 <li><a href="muntasir19@student.sust.edu" rel="me">Mail</a>
-<li><a href="https://bd.linkedin.com/in/muntasir-nahid-b1634a1aa" rel="me">Linkedin</a>
+<li><a href="https://www.linkedin.com/in/muntasir-mamun-nahid/" rel="me">Linkedin</a>
 <li><a href="https://www.facebook.com/muntasirmamun.nahid/" rel="me">Facebook</a>
 <li>Call</li>
 </li>
